@@ -42,7 +42,7 @@ img{
 		height:220px; /*30px plus per year.*/
 }
 .year{
-		height:20px;
+		height:24px;
 		padding-top:20px;
 		margin-left:50px;
 }
@@ -52,7 +52,7 @@ img{
 		margin-left:73px;
 }
 .bookname{
-		height:20px;
+		height:24px;
 		padding-top:20px;
 		margin-left:55px;
 }
